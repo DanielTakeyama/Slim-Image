@@ -2,6 +2,26 @@
 O SlimImage é uma ferramenta online que remove metadados de imagens para reduzir o tamanho do arquivo sem comprometer a qualidade. Ideal para desenvolvedores, designers e criadores de conteúdo que desejam otimizar imagens para web, melhorando o desempenho de sites e economizando espaço de armazenamento.
 
 
+
+## Como iniciar a ferramenta
+
+Primeiro, para poder iniciar use alguns dos seguintes comandos de acordo com a sua preferência?
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Em seguida, acesse: [http://localhost:3000](http://localhost:3000) com o seu navegador para visualizar o resultado.
+
+
+
+
 ## Padrões de Commits para serem seguidos
 
 ### Adicionar uma nova funcionalidade:
